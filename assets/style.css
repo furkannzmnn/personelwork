@@ -1,0 +1,108 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: url("css/img/mountain.jpg");
+    background-position: center;
+
+}
+
+.box {
+    width: 450px;
+    background-color: #6b585b ;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+    color: #ffffff;
+    font-family: sans-serif;
+
+}
+
+.box img{
+    border-radius: 50%;
+    width: 200px;
+    height: 159px;
+    cursor: pointer;
+    transition: 0,5s;
+}
+
+.box img:hover {
+    transform: scale(0.9);
+}
+
+.box h1{
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: bold;
+
+
+}
+
+.box h5 {
+    font-size: 15px;
+    font-weight: 100%;
+    letter-spacing: 3px;
+}
+
+.box p {
+    text-align: justify;
+}
+
+ul {
+    margin: 0%;
+
+}
+
+.box li {
+    display: inline-block;
+    margin: 16px;
+    list-style: none;
+}
+
+.box li a {
+    color: white;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+    
+}
+
+.box li a :hover{
+    color: #b9b9b9;
+}
+
+.menu {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.menu {
+    width: 140px;
+    height: 100px;
+    margin: 0%;
+
+
+}
+
+.menu ul li {
+    float: left;list-style-type: none;
+}
+.menu ul li a{color:#fff; font:17px Arial;text-decoration:none; padding:14px 15px;transition:all .5s;-webkit-transition:all .5s;-moz-transition:all .5s;}
+	.menu ul li a:hover{
+		background:rgb(214, 206, 197);
+		color:rgb(0, 0, 0);
+    }
+    
+.menu ul li a {
+    display: inline-block;
+    padding-block: 10%;
+    margin-block: 20%;      
+}
+
+body{
+    background-image: url(css/img/iletişimARKA.jpg)
+
+}
+
+buradaki resim farkli mıydı
+şimdi anasayfadaki buydu
